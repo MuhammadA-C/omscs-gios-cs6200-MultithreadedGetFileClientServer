@@ -15,7 +15,7 @@ Georgia Institute of Technology doesn’t allow students to publicly share proje
 ---
 ### Description
 
-Goals for project 1 was to become familiar with socket programming and multithreading via the pthreads library. 
+Goals for project 1 were to become familiar with socket programming and multithreading via the pthreads library. 
 
 #### Project Parts
 
