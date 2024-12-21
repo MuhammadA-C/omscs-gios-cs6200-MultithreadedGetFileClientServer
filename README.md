@@ -1,6 +1,12 @@
 # omscs-gios-cs6200-MultithreadedGetFileClientServer
 Georgia Institute of Technology - Graduate Introduction to Operation Systems (GIOS) - Fall 2024 - Project 1: Multithreaded GetFile Client Server
 
+* University: Georgia Institute of Technology (GaTech)
+* Degree: Master of Science in Software Development
+* Class: CS6200 Graduate Introduction to Operating Systems
+* Date: Fall 2024 (09/23/2024)
+
+---
 ### Important to note
 
 Georgia Institute of Technology doesn’t allow students to publicly share projects from classes, but I can provide the project code to hiring managers/recruiters upon request.
